@@ -65,7 +65,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rose-xD&bg_color=0D0718&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph"/>
+<a href="https://github.com/Rose-xD?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-7B2FFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 </div>
 
