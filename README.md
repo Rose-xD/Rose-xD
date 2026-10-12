@@ -97,32 +97,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=100&section=footer" width="100%"/>
 
 </div>
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Rose-xD">
-<img src="https://img.shields.io/badge/GitHub-Rose--xD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://t.me/SeekhoBots">
-<img src="https://img.shields.io/badge/Telegram-@Rose__xD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://www.youtube.com/@NextGyanOfficial">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://www.instagram.com/NextGyanOfficial">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-**⭐ Explore my repositories and follow my coding journey!**
-
-*Build. Learn. Improve. Keep creating. 💜*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=100&section=footer" width="100%"/>
-
-</div>
