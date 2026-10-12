@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/GitHub-Rose--xD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://t.me/SeekhoBots">
-<img src="https://img.shields.io/badge/Telegram-@Rose__xD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://www.youtube.com/@NextGyanOfficial">
 <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
