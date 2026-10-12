@@ -8,8 +8,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rose-xD&label=PROFILE%20VIEWS&color=7B2FFF&style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rose-xD&label=PROFILE%20VIEWS&color=7B2FFF&style=for-the-badge" alt="Profile views"/>
+</p>
 </div>
 
 ---
