@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=220&section=header&text=Rose-xD&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Music%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Telegram+Music+Bot+Developer;Python+%7C+Flask+%7C+REST+APIs;Building+with+Termux;Code.+Build.+Debug.+Repeat." alt="Typing animation"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Telegram+Music+Bot+Developer;Python+%7C+Flask+%7C+REST+APIs;Building+with+Termux;Code.+Build.+Debug.+Repeat." alt="Typing animation"/>
+</a>
 
 <br/>
 
