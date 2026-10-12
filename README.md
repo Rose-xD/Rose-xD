@@ -6,13 +6,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Telegram+All+Type+Bot+Developer;Python+%7C+Flask+%7C+REST+APIs;Building+with+Termux;Code.+Build.+Debug.+Repeat." alt="Typing animation"/>
 </a>
 
-<br/>
-
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Rose-xD&label=PROFILE%20VIEWS&color=7B2FFF&style=for-the-badge" alt="Profile Views"/>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Rose-xD/count.svg" alt="Profile Views"/>
 </p>
-
-</div>
 
 ---
 
