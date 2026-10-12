@@ -81,10 +81,10 @@
 <a href="https://t.me/Rose_xD">
 <img src="https://img.shields.io/badge/Telegram-@Rose__xD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="https://www.youtube.com/">
+<a href="https://www.youtube.com/@NextGyanOfficial">
 <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://www.instagram.com/">
+<a href="https://www.instagram.com/NextGyanOfficial">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
