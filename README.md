@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=220&section=header&text=Rose-xD&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Music%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=220&section=header&text=Rose-xD&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20All%20Type%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Telegram+Music+Bot+Developer;Python+%7C+Flask+%7C+REST+APIs;Building+with+Termux;Code.+Build.+Debug.+Repeat." alt="Typing animation"/>
@@ -78,14 +78,14 @@
 <a href="https://github.com/Rose-xD">
 <img src="https://img.shields.io/badge/GitHub-Rose--xD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://t.me/Next_Gyan">
-<img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<a href="https://t.me/SeekhoBots">
+<img src="https://img.shields.io/badge/Telegram-@Rose__xD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://www.youtube.com/@NextGyanOfficial">
-<img src="https://img.shields.io/badge/YouTube-NextGyanOfficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://www.instagram.com/NextGyanOfficial/">
-<img src="https://img.shields.io/badge/Instagram-NextGyanOfficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/NextGyanOfficial">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
@@ -97,3 +97,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=100&section=footer" width="100%"/>
 
 </div>
+
