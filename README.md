@@ -97,30 +97,32 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=100&section=footer" width="100%"/>
 
 </div>
----
 
-## 📈 Contribution Activity
+</div>
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rose-xD&bg_color=0D0718&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-<br/><br/>
-
-<a href="https://github.com/Rose-xD?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-7B2FFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+<a href="https://github.com/Rose-xD">
+<img src="https://img.shields.io/badge/GitHub-Rose--xD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://t.me/SeekhoBots">
-<img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-@Rose__xD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://www.youtube.com/@NextGyanOfficial">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.instagram.com/NextGyanOfficial">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
-<strong>💜 Thanks for visiting my profile!</strong>
+**⭐ Explore my repositories and follow my coding journey!**
 
-<br/>
+*Build. Learn. Improve. Keep creating. 💜*
 
-<em>Build. Learn. Improve. Keep creating.</em>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=100&section=footer" width="100%"/>
 
 </div>
