@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=220&section=header&text=Rose-xD&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20All%20Type%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=150&section=header&text=Rose-xD&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Bot%20Developer&descAlignY=58&descSize=14" width="100%" alt="Rose-xD banner"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Telegram+All+Type+Bot+Developer;Python+%7C+Flask+%7C+Rest+Apis;Building+with+Termux;Code.+Build.+Debug.+Repeat." alt="Typing animation"/>
+<p align="center"><b>Python • Flask • REST APIs</b><br/>Telegram Bots • Termux • Backend Development</p>
 </a>
 
 <br/>
