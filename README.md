@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=220&section=header&text=Rose-xD&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20All%20Type%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Telegram+Music+Bot+Developer;Python+%7C+Flask+%7C+REST+APIs;Building+with+Termux;Code.+Build.+Debug.+Repeat." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Telegram+All+Type+Bot+Developer;Python+%7C+Flask+%7C+Rest+Apis;Building+with+Termux;Code.+Build.+Debug.+Repeat." alt="Typing animation"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rose-xD&label=PROFILE+VIEWS&color=7B2FFF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Rose-xD&label=PROFILE%20VIEWS&color=7B2FFF&style=for-the-badge"/>
 
 </div>
 
@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/GitHub-Rose--xD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://t.me/SeekhoBots">
-<img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-@Rose__xD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://www.youtube.com/@NextGyanOfficial">
 <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
