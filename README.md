@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:C77DFF&height=150&section=header&text=Rose-xD&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Bot%20Developer&descAlignY=58&descSize=14" width="100%" alt="Rose-xD banner"/>
 
-<a href="https://git.io/typing-svg">
 <p align="center"><b>Python • Flask • REST APIs</b><br/>Telegram Bots • Termux • Backend Development</p>
-</a>
 
 <br/>
 
