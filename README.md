@@ -78,14 +78,14 @@
 <a href="https://github.com/Rose-xD">
 <img src="https://img.shields.io/badge/GitHub-Rose--xD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://t.me/Rose_xD">
-<img src="https://img.shields.io/badge/Telegram-@Rose__xD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<a href="https://t.me/Next_Gyan">
+<img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="https://www.youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<a href="https://www.youtube.com/@NextGyanOfficial">
+<img src="https://img.shields.io/badge/YouTube-NextGyanOfficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/NextGyanOfficial/">
+<img src="https://img.shields.io/badge/Instagram-NextGyanOfficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
